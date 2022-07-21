@@ -59,6 +59,7 @@ Simply Love has support for:
   * 日本語
   * Polski
   * Português Brasileiro (incomplete, translator wanted)
+  * Vietnamese (incomplete, need more font glyph for VN characters)
 
 The current language can be changed in Simply Love under *System Options*.
 
